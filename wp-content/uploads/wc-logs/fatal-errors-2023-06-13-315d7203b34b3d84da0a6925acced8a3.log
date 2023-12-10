@@ -1,0 +1,2 @@
+2023-06-13T06:44:15+00:00 CRITICAL Cannot declare class GOSMTP_PHPMailer, because the name is already in use in /home/tzoneonl/saintzone.fun/wp-content/plugins/gosmtp/init.php on line 127
+

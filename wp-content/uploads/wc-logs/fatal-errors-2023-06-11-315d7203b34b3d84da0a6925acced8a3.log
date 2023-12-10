@@ -1,0 +1,10 @@
+2023-06-11T03:31:13+00:00 CRITICAL Cannot declare class GOSMTP_PHPMailer, because the name is already in use in /home/tzoneonl/saintzone.fun/wp-content/plugins/gosmtp/init.php on line 127
+
+2023-06-11T03:31:40+00:00 CRITICAL Cannot declare class GOSMTP_PHPMailer, because the name is already in use in /home/tzoneonl/saintzone.fun/wp-content/plugins/gosmtp/init.php on line 127
+
+2023-06-11T03:31:48+00:00 CRITICAL Cannot declare class GOSMTP_PHPMailer, because the name is already in use in /home/tzoneonl/saintzone.fun/wp-content/plugins/gosmtp/init.php on line 127
+
+2023-06-11T06:50:32+00:00 CRITICAL Cannot declare class GOSMTP_PHPMailer, because the name is already in use in /home/tzoneonl/saintzone.fun/wp-content/plugins/gosmtp/init.php on line 127
+
+2023-06-11T07:01:36+00:00 CRITICAL Cannot declare class GOSMTP_PHPMailer, because the name is already in use in /home/tzoneonl/saintzone.fun/wp-content/plugins/gosmtp/init.php on line 127
+
